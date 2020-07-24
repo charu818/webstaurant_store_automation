@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Fail : Page : 7 Product : Steelton 30" x 36" 18-Gauge Stainless Steel Equipment Stand with Undershelf and Galvanized Legs is not having word Table]]>
+    </line>
+    <line>
+      <![CDATA[Fail : Page : 7 Product : Steelton 30" x 24" 18-Gauge Stainless Steel Equipment Stand with Undershelf and Galvanized Legs is not having word Table]]>
+    </line>
+    <line>
+      <![CDATA[Fail : Page : 7 Product : Steelton 30" x 48" 18-Gauge Stainless Steel Equipment Stand with Undershelf and Galvanized Legs is not having word Table]]>
+    </line>
+    <line>
+      <![CDATA[Fail : Page : 8 Product : Steelton 30" x 36" 18-Gauge Stainless Steel Equipment Stand with Undershelf and Galvanized Legs is not having word Table]]>
+    </line>
+    <line>
+      <![CDATA[Fail : Page : 8 Product : Steelton 30" x 24" 18-Gauge Stainless Steel Equipment Stand with Undershelf and Galvanized Legs is not having word Table]]>
+    </line>
+    <line>
+      <![CDATA[Fail : Page : 8 Product : Steelton 30" x 48" 18-Gauge Stainless Steel Equipment Stand with Undershelf and Galvanized Legs is not having word Table]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="131217" started-at="2020-07-23T17:48:59Z" finished-at="2020-07-23T17:51:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="131217" started-at="2020-07-23T17:48:59Z" finished-at="2020-07-23T17:51:10Z">
+      <class name="testMethods.TestMethod">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testMethods.TestMethod@ae45eb6]" name="setup" is-config="true" duration-ms="7559" started-at="2020-07-23T17:48:51Z" finished-at="2020-07-23T17:48:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:testMethods.TestMethod@ae45eb6]" name="test1" duration-ms="131157" started-at="2020-07-23T17:48:59Z" finished-at="2020-07-23T17:51:10Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Fail : Page : 7 Product : Steelton 30" x 36" 18-Gauge Stainless Steel Equipment Stand with Undershelf and Galvanized Legs is not having word Table]]>
+            </line>
+            <line>
+              <![CDATA[Fail : Page : 7 Product : Steelton 30" x 24" 18-Gauge Stainless Steel Equipment Stand with Undershelf and Galvanized Legs is not having word Table]]>
+            </line>
+            <line>
+              <![CDATA[Fail : Page : 7 Product : Steelton 30" x 48" 18-Gauge Stainless Steel Equipment Stand with Undershelf and Galvanized Legs is not having word Table]]>
+            </line>
+            <line>
+              <![CDATA[Fail : Page : 8 Product : Steelton 30" x 36" 18-Gauge Stainless Steel Equipment Stand with Undershelf and Galvanized Legs is not having word Table]]>
+            </line>
+            <line>
+              <![CDATA[Fail : Page : 8 Product : Steelton 30" x 24" 18-Gauge Stainless Steel Equipment Stand with Undershelf and Galvanized Legs is not having word Table]]>
+            </line>
+            <line>
+              <![CDATA[Fail : Page : 8 Product : Steelton 30" x 48" 18-Gauge Stainless Steel Equipment Stand with Undershelf and Galvanized Legs is not having word Table]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- testMethods.TestMethod -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
